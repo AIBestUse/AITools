@@ -3,7 +3,7 @@
 
 这个仓库整理AI相关的实用工具。
 
-## 全部分类https://github.com/AIBestUse/AITools/blob/main/README.md
+## 全部分类
 - [ChatGPT及类似商用大语言模型](#chatgpt及类似商用大语言模型)
 - [ChatGPT 应用](#chatgpt应用)
 - [国内可使用的ChatGPT镜像站点](#国内可使用的chatgpt镜像站点)
@@ -199,17 +199,13 @@ Early experiments with GPT-4](https://arxiv.org/pdf/2303.12712v1.pdf): 该论文
 - [《GPT-4 ，通用人工智能的火花》论文内容精选与翻译](https://orangeblog.notion.site/GPT-4-8fc50010291d47efb92cbbd668c8c893): [Sparks of Artificial General Intelligence:
 Early experiments with GPT-4](https://arxiv.org/pdf/2303.12712v1.pdf) 这篇论文的精选和中文翻译。
 
-## 其他
-### Star 历史记录
-
-[![Star 历史记录](https://api.star-history.com/svg?repos=ikaijua/Awesome-AITools&type=Date)](https://star-history.com/#ikaijua/Awesome-AITools&Date)
 
 ### AI工具交流群
 
-交流一些AI工具的使用经验，群已满200人，请加微信 XFIechazoK12，拉你进群。
+交流一些AI工具的使用经验，群已满人，请加微信 aqpony520，拉你进群。
 
 如果您喜欢这个项目，可以赞赏一下支持我们，谢谢您的支持！
 
-<img src="https://github.com/ikaijua/Awesome-AITools/assets/126046795/76df3881-cf88-4767-96e0-157a2bb8f585" width="20%" height="20%" />   
+
 
 
